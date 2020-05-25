@@ -34,7 +34,7 @@
 
   1. Baixe a aplicação utilizando  ```git clone (repos)``` ou como arquivo compactado.
   2. Abra o terminal na pasta onde a aplicação foi clonada ou descompactada.
-  3. Digite ```yarn``` no terminal <i>(ou <b>npm</b> dependendo de qual gerenciador de pacotes estiver utilizando).</i> 
+  3. Digite ```yarn``` no terminal <i>(ou <b>npm install</b> dependendo de qual gerenciador de pacotes estiver utilizando).</i> 
 
   <p> Então ele começará a instalar todas as dependencias do projeto. </p>
 
